@@ -1,37 +1,49 @@
 <img src="knattk.jpeg" width="100%">
 
 
-# 🚀 Principal Chaos Architect & Senior Systems Saboteur
-*"Leveraging cutting-edge trial-and-error methodologies to disrupt production environments at scale."*
+### 👨‍💻 About Me (and my chaotic workflow)
 
-A highly motivated and results-driven (to panic) software engineer specializing in high-frequency error generation and catastrophic deployment pipelines. With a relentless pursuit of localized system failures, I architect highly unpredictable software ecosystems, pushing the boundaries of memory leaks, infinite loops, and CPU throttling. 
-
-### 🏆 Highlights"
-
-* **Massive Scale Deployment:** Orchestrated the seamless integration of over **1,000,000 undocumented bugs** into live production environments, fundamentally revolutionizing how on-call engineers consume caffeine.
-* **High Availability & Uptime:** Successfully maintained a **99.99% downtime rate** during peak business hours, pioneering the industry-leading "Friday Afternoon Deployment" protocol.
-* **Database Optimization:** Streamlined data storage architectures by mastering rapid and irreversible `DROP TABLE` command executions directly on the master node without backups.
-* **Advanced Version Control:** Developed a proprietary workflow utilizing rapid-fire `git commit -m "fix"` and `git push --force`, completely bypassing legacy concepts like code review and peer consensus.
-* **Security & Authentication:** Pioneered the "Hardcoded Passwords in Plaintext" initiative, maximizing accessibility for all unauthorized third-party entities.
-
-### 🛠️ Core Competencies & Tech Stack
-
-**Frontend Architecture**
-* Advanced implementation of `!important` overriding strategies to assert absolute dominance over CSS logic.
-* Expertise in StackOverflow-Driven Development (SODD) and Copy-Paste Frameworks.
-
-**Backend & Infrastructure**
-* **Microservices:** Prayer-Based Routing, Try/Catch(Ignore) Error Handling, and Unintentional DDoS Architectures.
-* **DevOps:** "Works on My Machine" Dockerization, YOLO Deployments, and blind Server Configuration.
-
-### 📊 Current Operations
-- 🔭 **Currently engineering:** A highly sophisticated workaround for a feature I accidentally broke 5 minutes ago.
-- 🌱 **Currently learning:** How to exit Vim without pulling the power plug from the wall.
-- 👯 **Looking to collaborate on:** Approving my pull requests without looking at the code. Please.
+- 🔭 **I’m currently working on:** A highly sophisticated workaround for a feature I accidentally broke 5 minutes ago.
+- 🌱 **I’m currently learning:** How to exit Vim without pulling the power plug from the wall.
+- 👯 **I’m looking to collaborate on:** Approving my pull requests without looking at the code. Please.
+- 🤔 **I’m looking for help with:** Restoring a production database I just `DROP TABLE`'d by mistake.
 - 💬 **Ask me about:** Why `console.log("here 3")` is the ultimate debugging methodology.
+- 📫 **How to reach me:** You can't. I'm currently hiding from the QA team.
 
 <br>
 
-<p align="center">
-  <i>"I don't write spaghetti code. I engineer highly complex, interwoven logic matrices that resist human comprehension."</i>
-</p>
+### 🛠️ Weapons of Mass Destruction (Tech Stack)
+
+<details>
+  <summary><b>Languages & Tools I pretend to know <i>(Click to expand)</i></b></summary>
+  <br>
+  <ul>
+    <li><b>HTML/CSS:</b> Exclusively using <code>!important</code> to assert absolute dominance over layout grids.</li>
+    <li><b>JavaScript:</b> Copying directly from StackOverflow without reading the warnings in the comments below it.</li>
+    <li><b>Git Workflow:</b> Rapid-fire <code>git commit -m "fix"</code> followed immediately by <code>git push --force</code>.</li>
+    <li><b>DevOps:</b> Deploying directly to production on Friday at 5:00 PM (YOLO deployment).</li>
+  </ul>
+</details>
+
+<br>
+
+### 🏆 Hall of Shame (My "Contributions")
+
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <b>🚨 1,000,000 Error Commits</b><br>
+      Flooding the main branch with experimental bugs to keep the senior developers on their toes.
+    </td>
+    <td width="50%" valign="top">
+      <b>📉 99.99% Downtime Guaranteed</b><br>
+      Maintained a flawless record of breaking the live environment during peak business hours.
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<div align="center">
+  <p><i>"It compiles? Ship it. We'll fix it in production."</i></p>
+</div>
